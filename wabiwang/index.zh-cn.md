@@ -8,7 +8,7 @@ draft: false
 authors: ["Simon"]
 featuredImage: "wabiwang.png"
 link: "http://www.wabi.com/"
-tags: ["元宇宙资讯"，"挖币网"]
+tags: ["元宇宙资讯","挖币网"]
 categories: ["navigation"]
 navigation: ["元宇宙资讯"]
 lightgallery: true
